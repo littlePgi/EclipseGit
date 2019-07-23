@@ -1,7 +1,7 @@
 package noe;
-
+//鏇存柊
 public class text {	
 	public static void main(String[] args) {
-		System.out.println("Git提交更新");
+		System.out.println("Git脤谩陆禄赂眉脨脗");
 	}
 }
